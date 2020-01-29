@@ -1,0 +1,9 @@
+src/serviceWorker.js
+tools/*
+coverage/*
+build/*
+cypress
+node_modules/*
+.cache
+.vscode
+mochawesome-report
